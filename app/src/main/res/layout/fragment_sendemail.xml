@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".fragments.sendemail.SendemailFragment"
+    android:orientation="vertical"
+    android:paddingTop="32dp"
+    android:gravity="center|center_horizontal"
+    android:background="@drawable/fragmentbg">
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="18sp"
+        android:text="@string/contat_pheeze_therapist_to_get_started"
+        android:layout_marginBottom="12dp"
+        android:textColor="@android:color/black"
+        />
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/ic_pheezetherapist"
+        android:layout_margin="20dp"/>
+    <Button
+        android:id="@+id/sendemail"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAllCaps="false"
+        android:textColor="@android:color/white"
+        android:text="@string/send"
+        android:background="@drawable/shape"
+        android:textSize="16sp"
+        android:padding="8dp"
+        android:layout_margin="8dp"/>
+</LinearLayout>

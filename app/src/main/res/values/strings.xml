@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">StartoonLabsTask</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="please_enter_your_10_digit_phone_number_here_n_you_will_recieve_an_access_code">Please enter your 10 digit phone number here.</string>
+    <string name="step_1">Step 1</string>
+    <string name="you_will_recieve_an_access_code">You will recieve an access code.</string>
+    <string name="enter_10_digit_number">Enter 10 digit number</string>
+    <string name="please_enter_6_digit_access_code_to_verify">Please enter 6 digit access code to verify.</string>
+    <string name="step_2">Step 2</string>
+    <string name="i_don_t_have_access_code">I don\'t have access code.</string>
+    <string name="acess_code">Acess Code.</string>
+    <string name="contat_pheeze_therapist_to_get_started">Contact Pheeze therapist to get started</string>
+    <string name="home">Home</string>
+    <string name="device">Device</string>
+    <string name="payments">Payments</string>
+    <string name="profile">Profile</string>
+    <string name="user_verified">User Verified</string>
+    <string name="thank_you">Thank You!</string>
+    <string name="our_team_will_get_you_in_touch_n_t_t_twith_pheeze_therapist">Our team will get you in touch\n \t\t\twith Pheeze therapist</string>
+    <string name="send">Send</string>
+</resources>
